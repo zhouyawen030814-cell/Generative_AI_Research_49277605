@@ -20,10 +20,10 @@ This repository is part of the research project **"Using Generative AI Tools –
   Information sheets, photos, and other supplementary materials.  
 ---
 ## how to navigate the files
-
+ Use **meaningful commit messages**
 ---
 ## How to Contribute
-
+Fork this repository to your own GitHub account.
 ---
 
  
