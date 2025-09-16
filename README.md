@@ -27,7 +27,11 @@ This repository is part of the research project **"Using Generative AI Tools –
   3. The **code reviewer** will check pull requests, resolve conflicts if necessary, and merge     them into the main branch.   
 ---
 ## How to Contribute
-   1.Fork this repository to your own GitHub account.
+  1. Fork this repository to your own GitHub account.  
+  2. Clone the forked repository to your local machine.   
+  3. Make your changes on a new branch.  
+  4. Commit and push your changes with clear commit messages.  
+  5. Submit a pull request for review.  
 ---
 
  
