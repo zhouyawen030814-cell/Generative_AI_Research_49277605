@@ -20,12 +20,14 @@ This repository is part of the research project **"Using Generative AI Tools –
   Information sheets, photos, and other supplementary materials.  
 ---
 ## how to navigate the files
-  -
-  Use **meaningful commit messages**
+  1. Use **meaningful commit messages** 
+
+  2. When editing documents, create a **new branch**. 
+
+  3. The **code reviewer** will check pull requests, resolve conflicts if necessary, and merge     them into the main branch.   
 ---
 ## How to Contribute
--
-Fork this repository to your own GitHub account.
+   1.Fork this repository to your own GitHub account.
 ---
 
  
