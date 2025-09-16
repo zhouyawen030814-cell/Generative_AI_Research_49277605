@@ -19,7 +19,7 @@ This repository is part of the research project **"Using Generative AI Tools –
 - **Additional_Materials/**  
   Information sheets, photos, and other supplementary materials.  
 ---
-## how to navigate the files
+## How to navigate the files
   1. Use **meaningful commit messages** 
 
   2. When editing documents, create a **new branch**. 
